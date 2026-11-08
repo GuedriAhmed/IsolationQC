@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.netlify/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+Thumbs.db
+
+# Local email and deployment audit notes
+AUDIT_EMAIL_FUNCTIONS.md
+BREVO_CONFIG_WORKING.md
+SEND_CONTACT_EMAILS_AUDIT.md
+SMTP_AUDIT_REPORT.md
+TEST_RESULTS.md
+seo-audit.csv
